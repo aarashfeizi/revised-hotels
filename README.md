@@ -8,3 +8,14 @@ Link to the original datasets:
 
 
 Follow instructions from `create_splits.ipynb` to create splits according to the paper.
+
+# Citation
+If this repository was useful in your research, please consider giving a star ⭐ and a cite us! Thanks :) 
+```
+@article{feizi2022revisiting,
+  title={Revisiting Hotels-50K and Hotel-ID},
+  author={Feizi, Aarash and Casanova, Arantxa and Romero-Soriano, Adriana and Rabbany, Reihaneh},
+  journal={arXiv preprint arXiv:2207.10200},
+  year={2022}
+}
+```
