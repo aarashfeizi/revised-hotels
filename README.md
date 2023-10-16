@@ -9,4 +9,3 @@ Follow instructions from `create_splits.ipynb` to create splits according to the
 
 # Citation
 If this repository was useful in your research, please consider giving a star ⭐ and a cite us! Thanks :) 
-```
